@@ -50,6 +50,7 @@ The nRF24L01 modules transmit data wirelessly using **2.4 GHz RF communication**
 
 
 ```
+
 esp32-wireless-food-ordering-system
 │
 ├── transmitter
@@ -62,7 +63,9 @@ esp32-wireless-food-ordering-system
 │   └── project_presentation.pdf
 │
 ├── images
-│   └── system_block_diagram.png
+│   ├── block_diagram.png
+│   ├── hardware_setup.jpg
+│   └── output_demo.jpg
 │
 └── README.md
 ```
