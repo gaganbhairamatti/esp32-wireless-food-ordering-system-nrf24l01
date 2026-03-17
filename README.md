@@ -64,8 +64,8 @@ esp32-wireless-food-ordering-system
 │
 ├── images
 │   ├── block_diagram.png
-│   ├── hardware_setup.jpg
-│   └── output_demo.jpg
+│   ├── hardware_setup.jpeg
+│   └── output_demo.jpeg
 │
 └── README.md
 ```
@@ -75,10 +75,10 @@ esp32-wireless-food-ordering-system
 ![Block Diagram](images/block_diagram.png)
 
 ### 🔹 Hardware Setup
-![Hardware Setup](images/hardware_setup.jpg)
+![Hardware Setup](images/hardware_setup.jpeg)
 
 ### 🔹 Output
-![Output](images/output_demo.jpg)
+![Output](images/output_demo.jpeg)
 ---
 
 ## Applications
