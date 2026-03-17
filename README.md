@@ -53,10 +53,10 @@ The nRF24L01 modules transmit data wirelessly using **2.4 GHz RF communication**
 esp32-wireless-food-ordering-system
 │
 ├── transmitter
-│   └── tx2222.ino
+│   └── transmitter.ino
 │
 ├── receiver
-│   └── rx2222.ino
+│   └── receiver.ino
 │
 ├── documentation
 │   └── project_presentation.pdf
