@@ -80,6 +80,11 @@ esp32-wireless-food-ordering-system
 ### 🔹 Output
 ![Output](images/output_demo.jpeg)
 ---
+## 🎥 Demo Video
+
+Watch the working demo of the ESP32 Wireless Food Ordering System:
+
+👉 https://youtu.be/1d4zGYsafx8
 
 ## Applications
 - Restaurants
@@ -104,3 +109,4 @@ esp32-wireless-food-ordering-system
 - Prajwal Desai
 
 ---
+Developed by: Gagan Bhairamatti
