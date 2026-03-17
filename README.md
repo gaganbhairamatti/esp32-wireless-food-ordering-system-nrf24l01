@@ -69,7 +69,16 @@ esp32-wireless-food-ordering-system
 │
 └── README.md
 ```
+## 📸 Project Images
 
+### 🔹 System Block Diagram
+![Block Diagram](images/block_diagram.png)
+
+### 🔹 Hardware Setup
+![Hardware Setup](images/hardware_setup.jpg)
+
+### 🔹 Output
+![Output](images/output_demo.jpg)
 ---
 
 ## Applications
